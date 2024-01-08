@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Member Technical",
+    "organisation": "ADP",
+    "startDate": "Aug, 2021",
+    "endDate": "Dec 2023",
+    "experiences": ["Engineered migration of old config tool to new HWSE which reduced the client Configuration time by 80%.", "Developed APIs using spring boot to implement functionalities."],
+    "imageSrc": "../../assects/ex/adp.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Mphasis",
+    "startDate": "June, 2021",
+    "endDate": "July, 2021",
+    "experiences": ["Implemented a backend API endpoint to search based filters that improved the user experience by 30%."],
+    "imageSrc": "../../assects/ex/mphasis.png"
+  }
+]

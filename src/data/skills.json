@@ -1,0 +1,26 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "../../assects/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "../../assects/skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "../../assects/skills/re.png"
+    },
+    {
+      "title": "Spring Boot",
+      "imageSrc": "../../assects/skills/sb.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "../../assects/skills/mgdb.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "../../assects/skills/sql.png"
+    }
+  ]
