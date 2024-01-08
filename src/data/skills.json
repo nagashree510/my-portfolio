@@ -1,19 +1,27 @@
 [
     {
+      "title": "JAVA",
+      "imageSrc": "../../assects/skills/html.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "../../assects/skills/html.png"
+    },
+    {
       "title": "HTML",
       "imageSrc": "../../assects/skills/html.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "../../assects/skills/css.png"
+      "imageSrc": "../../assects/skills/html.png"
     },
     {
       "title": "React",
-      "imageSrc": "../../assects/skills/re.png"
+      "imageSrc": "../../assects/skills/css.png"
     },
     {
-      "title": "Spring Boot",
-      "imageSrc": "../../assects/skills/sb.png"
+      "title": "SpringBoot",
+      "imageSrc": "../../assects/skills/re.png"
     },
     {
       "title": "MongoDB",
@@ -22,5 +30,9 @@
     {
       "title": "SQL",
       "imageSrc": "../../assects/skills/sql.png"
+    },
+    {
+      "title": "Selenium",
+      "imageSrc": "../../assects/skills/sb.png"
     }
   ]

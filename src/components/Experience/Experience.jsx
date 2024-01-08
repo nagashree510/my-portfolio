@@ -15,9 +15,10 @@ export const Experience = () => {
             return (
               <div key={id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
-                  <img src={skill.imageSrc} alt={skill.title} />
-                </div>
                 <p>{skill.title}</p>
+                  {/* <img src={skill.imageSrc} alt={skill.title} /> */}
+                </div>
+                
               </div>
             );
           })}
