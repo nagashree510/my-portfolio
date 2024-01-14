@@ -9,8 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Nagashree </h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 1.5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        I am a software developer with 1.5 years of experience, proficient in Java and Spring Boot. I specialize in backend development. Feel free to reach out if you would like to learn more!
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me

@@ -19,7 +19,7 @@ export const About = () => {
           <div className={styles.aboutItemText}>
             
           <p>
-              I'm a programming enthusiast and analytical thinker. I have strong problem solving skills.
+          I am a programming enthusiast and analytical thinker with strong problem-solving skills.
             </p>
           </div>
       </li>
@@ -27,16 +27,16 @@ export const About = () => {
           <img src={img3} aly=""></img>
           <div className={styles.aboutItemText}>
           <p>
-               I'm interseted in solving complex problems, designing complex systems, learning different technologies and teckstacks.
-              </p>
-           
+          I am interested in solving complex problems, designing intricate systems, and learning about different technologies and tech stacks.
+       </p>
           </div>
       </li>
       <li className={styles.aboutItem}>
           <img src={img4} aly=""></img>
           <div className={styles.aboutItemText}>
             
-            <p>I am continuously inspired by the limitless potential of software development to bring ideas to life.</p>
+            <p>I am continuously inspired by the limitless potential of software development to bring ideas to life.
+</p>
           </div>
       </li>
     </ul>
